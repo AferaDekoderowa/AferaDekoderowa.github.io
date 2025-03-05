@@ -1,4 +1,4 @@
-# AFERA NETIAGATE
+# AFERA DEKODEROWA (NETIAGATE)
 
 #### tl;dr Netia oszukuje: dekodery Netii (na pewno N7700 i N7800) nie przechodzą w stan uśpienia (standby) mimo zapalonej czerwonej diody i powołania się na rozporządzenia w deklaracji zgodności. Roczne straty wszystkich użytkowników mogą przekraczać 7,5 mln zł.
 
@@ -95,7 +95,7 @@ Wersja oprogramowania dekodera
 
 Już na powyższych przykładach wyraźnie widać, że dekoder nie spełnia wymagań trybu czuwania zacytowanego powyżej. Proszę zwrócić uwagę na czas nieprzerwanej pracy. Netia nawet nie ukrywa, że dekoder ciągle "pracuje" (noc w trybie standby).
 
-W celu przetestowania własnego dekodera, można skorzystać z przygotowanej strony dostępnej [tutaj](https://github.com/NetiaGate/NetiaGate.github.io/raw/master/N7700_linki.htm). Pobierz plik oraz otwórz w przeglądarce internetowej.
+W celu przetestowania własnego dekodera N7700, można skorzystać z przygotowanej strony dostępnej [tutaj](N7700_linki.htm). Test można wykonać będąc podłączonym do tej samej sieci co dekoder.
 
 Więcej informacji na temat sterowania dekoderem można znaleźć na poniższych stronach:  
 [https://github.com/korasinski/pyNetia](https://github.com/korasinski/pyNetia)  
@@ -169,3 +169,6 @@ Poprawki kosmetyczne
 
 ### Aktualizacja 4 - 10.09.2024
 UOKiK przekazuje sprawę do UKE
+
+### Aktualizacja 5 - 05.03.2025
+Nowy adres (aferadekoderowa.github.io), drobne aktualizacje treści
