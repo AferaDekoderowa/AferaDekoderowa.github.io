@@ -1,6 +1,9 @@
-title: Afera Dekoderowa (NetiaGate)
+title: Afera Dekoderowa w Netii (NetiaGate)
 description: >-
   Dekodery Netii nie przechodzą w stan uśpienia (standby) mimo zapalonej 
   czerwonej diody i powoływania się na rozporządzenia w deklaracji zgodności
 lang: pl
 url: https://aferadekoderowa.github.io
+author: "https://github.com/AferaDekoderowa"
+plugins:
+  - jekyll-sitemap
