@@ -20,17 +20,15 @@ Netia Player 2.0 (N7800)
 
 Wszystko byłoby w porządku, gdyby dekodery "zasypiały" a nie tylko zmieniały kolor diody z zielonej na czerwoną.
 
-Wybrane definicje z rozporządzeń:
+Wybrane definicje z rozporządzenia [1275/2008](https://eur-lex.europa.eu/eli/reg/2008/1275/oj?locale=pl), Artykuł 2 - Definicje:
 
-```
-2) „tryb(-y) czuwania” oznacza(-ją) stan, gdy urządzenie jest podłączone do sieci zasilania elektrycznego, musi pobierać energię z sieci zasilania elektrycznego, aby działać zgodnie z przeznaczeniem oraz wykonuje tylko poniższe funkcje przez dowolnie długi czas:
-— sama funkcja ponownego włączenia lub funkcja ponownego włączenia jedynie ze wskazaniem aktywowania funkcji ponownego włączenia, lub/oraz
-— wyświetlanie informacji lub statusu;
+> 2) „tryb(-y) czuwania” oznacza(-ją) stan, gdy urządzenie jest podłączone do sieci zasilania elektrycznego, musi pobierać energię z sieci zasilania elektrycznego, aby działać zgodnie z przeznaczeniem oraz wykonuje **tylko** poniższe funkcje przez dowolnie długi czas:  
+> — sama funkcja ponownego włączenia lub funkcja ponownego włączenia jedynie ze wskazaniem aktywowania funkcji ponownego włączenia, lub/oraz  
+> — wyświetlanie informacji lub statusu;
 
-3) „funkcja ponownego włączenia” oznacza funkcję umożliwiającą włączanie innych trybów, w tym trybu aktywnego, przez zdalnie sterowany przełącznik, jak np. urządzenie zdalnego sterowania, czujnik wewnętrzny lub licznik czasu służący do przełączenia w tryb, w którym dostępne są dodatkowe funkcje urządzenia, w tym jego główna funkcja;
+> 3) „funkcja ponownego włączenia” oznacza funkcję umożliwiającą włączanie innych trybów, w tym trybu aktywnego, przez zdalnie sterowany przełącznik, jak np. urządzenie zdalnego sterowania, czujnik wewnętrzny lub licznik czasu służący do przełączenia w tryb, w którym dostępne są dodatkowe funkcje urządzenia, w tym jego główna funkcja;
 
-4) „wyświetlanie informacji lub statusu” oznacza stale włączoną funkcję wyświetlania na wyświetlaczu informacji lub wskazywania statusu urządzenia, w tym zegary;
-```
+> 4) „wyświetlanie informacji lub statusu” oznacza stale włączoną funkcję wyświetlania na wyświetlaczu informacji lub wskazywania statusu urządzenia, w tym zegary;
 
 ### 3. Zgłoszenia do operatora
 Pierwsze próby zgłoszenia problemu były w marcu 2024. Za każdym razem odpowiedź była w stylu "wszystko jest w porządku", "tak ma być".
@@ -39,11 +37,11 @@ Prosiłem o bezpośredni kontakt w celu zgłoszenia problemu - nie otrzymałem.
 Nie uzyskałem również odpowiedzi na prośby o przekazanie pomiarów Netii.
 W odpowiedzi na ostatnią reklamację z dnia 2024-05-23, przekazano tylko:  
 
-`"W związku ze zgłoszonymi przez Pana problemami, skierowaliśmy sprawę do odpowiedniego działu, gdzie zostaną zweryfikowane poruszone przez Pana kwestie."`
+> "W związku ze zgłoszonymi przez Pana problemami, skierowaliśmy sprawę do odpowiedniego działu, gdzie zostaną zweryfikowane poruszone przez Pana kwestie."
 
 Odpowiedź "Odpowiedniego działu":
 
-`"W odpowiedzi na zgłoszenie informuję, że zweryfikowałam Pana sprawę. Wyjaśniam, że nie stwierdziliśmy nieprawidłowości w działaniu przekazanego Panu urządzenia. Jednocześnie wyjaśniam, że poruszony przez Pana temat podlegał wewnętrznej weryfikacji przez odpowiedni Dział w naszej firmie."`
+> "W odpowiedzi na zgłoszenie informuję, że zweryfikowałam Pana sprawę. Wyjaśniam, że nie stwierdziliśmy nieprawidłowości w działaniu przekazanego Panu urządzenia. Jednocześnie wyjaśniam, że poruszony przez Pana temat podlegał wewnętrznej weryfikacji przez odpowiedni Dział w naszej firmie."
 
 W tym momencie odpuściłem kontakty z operatorem, szkoda czasu i nerwów. Chyba jedynym sposobem nagannych praktyk operatora jest nagłośnienie sprawy.
 
@@ -172,3 +170,6 @@ UOKiK przekazuje sprawę do UKE
 
 ### Aktualizacja 5 - 05.03.2025
 Nowy adres (aferadekoderowa.github.io), drobne aktualizacje treści
+
+### Aktualizacja 6 - 18.03.2025
+Poprawki zwiększające czytelność strony
