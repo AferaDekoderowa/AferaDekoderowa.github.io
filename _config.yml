@@ -6,4 +6,5 @@ lang: pl
 url: https://aferadekoderowa.github.io
 author: "https://github.com/AferaDekoderowa"
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
