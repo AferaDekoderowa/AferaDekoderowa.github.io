@@ -173,3 +173,6 @@ Nowy adres (aferadekoderowa.github.io), drobne aktualizacje treści
 
 ### Aktualizacja 6 - 18.03.2025
 Poprawki zwiększające czytelność strony
+
+### Aktualizacja 7 - 29.01.2026
+Centralne Laboratorium Badań Technicznych Urzędu Komunikacji Elektronicznej potwierdziło, że wspomniane dekodery są niezgodne z wymogami zawartymi w Rozporządzeniu Komisji (WE) nr 1275/2008 w zakresie zużycia energii elektrycznej w trybie czuwania (zał. II pkt 2 oraz zał. III).
