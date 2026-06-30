@@ -1,6 +1,8 @@
 # AFERA DEKODEROWA W NETII (NETIAGATE)
 
-#### tl;dr Netia oszukuje: dekodery Netii (na pewno N7700 i N7800) nie przechodzą w stan uśpienia (standby) mimo zapalonej czerwonej diody i powołania się na rozporządzenia w deklaracji zgodności. Roczne straty wszystkich użytkowników mogą przekraczać 7,5 mln zł.
+### Aktualizacja oprogramowania w czerwcu 2026 powoduje, że N7700 już prawidłowo usypia. Co z pozostałymi dekoderami? Dajcie znać!
+
+~~#### tl;dr Netia oszukuje: dekodery Netii (na pewno N7700 i N7800) nie przechodzą w stan uśpienia (standby) mimo zapalonej czerwonej diody i powołania się na rozporządzenia w deklaracji zgodności. Roczne straty wszystkich użytkowników mogą przekraczać 7,5 mln zł.~~
 
 ### 1. Jak się to zaczęło?
 Przypadkiem. Nieużywany od kilku godzin dekoder ciągle był wyraźnie ciepły. Dziwna sprawa, postanowiłem sprawdzić temperaturę po kolejnych kilku godzinach. Dalej to samo.
@@ -176,3 +178,16 @@ Poprawki zwiększające czytelność strony
 
 ### Aktualizacja 7 - 29.01.2026
 Centralne Laboratorium Badań Technicznych Urzędu Komunikacji Elektronicznej potwierdziło, że wspomniane dekodery są niezgodne z wymogami zawartymi w Rozporządzeniu Komisji (WE) nr 1275/2008 w zakresie zużycia energii elektrycznej w trybie czuwania (zał. II pkt 2 oraz zał. III).
+
+### Aktualizacja 8 - 30.06.2026
+W dniu wczorajszym Netia wysłała następujące SMS-y:
+
+<img src="pics/sms_netia.png" alt="Szanowni Panstwo, wychodzac naprzeciw normom ekologicznym, wprowadzamy na naszych dekoderach zmiane powodujaca przelaczenie dekodera, po 20 minutach od wylaczenia, w tryb oszczedzania energii. W zwiazku z wprowadzana zmiana ponowne uruchomienie dekodera bedzie trwalo kilkadziesiat sekund i jest to prawidlowe dzialanie. Tryb oszczedzania energii bedzie mozna wylaczyc w menu dekodera, wybierajac w zakladce  Ustawienia zaawansowane , w pozycji  Tryb czuwania  opcje  Szybki start  (nawet jezeli jest juz wybrana). Pozdrawiamy Netia" width="500"/><br>
+
+Moim zdaniem, prawidłowa treść takiej wiadomości powinna wyglądać następująco:
+
+> Szanowni Państwo, przez długie lata oszukiwaliśmy was podając nieprawidłowe informacje dotyczące zużycia energii elektrycznej przez nasze dekodery. W stanie czuwania pobierały jej znacznie więcej niż powinny. Zostaliśmy zobligowani do zmniejszenia zużycia energii poprzez aktualizację oprogramowania sprzętowego. W ramach rekompensaty za poniesione straty, przyznamy Państwu rabat na abonament przez najbliższe miesiące w wysokości uzależnionej od czasu korzystania z naszych usług. W przypadku w którym nie jesteście już naszymi abonentami, prosimy o podanie numeru konta na który wykonamy przelew. Pozdrawiamy Netia
+
+Szanowny operatorze: najwyższy czas na odpowiednie zadośćuczynienie za poniesione przez nas straty. Prosimy również o sprostowanie powyższej wiadomości SMS i poinformowanie wszystkich o **rzeczywistej** przyczynie aktualizacji oprogramowania. Marketingowy bełkot, proszę zostawić dla naiwnych akcjonariuszy. Normy ekologiczne powinny zostać spełnione już w momencie wprowadzenia rządzenia na rynek, a nie tak jak w tym przypadku, dopiero po interwencji urzędu!
+
+Czekamy na dalszy rozwój sytuacji, będziemy na bieżąco wszystko monitorować. Dziękuję za przesyłane zrzuty ekranu z powyższą wiadomością.
